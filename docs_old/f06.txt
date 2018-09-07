@@ -1,0 +1,7 @@
+f06 module
+==========
+
+.. automodule:: f06
+    :members:
+    :undoc-members:
+    :show-inheritance:

@@ -1,0 +1,1366 @@
+bdf package
+===========
+
+Submodules
+----------
+
+bdf.add_card module
+-------------------
+
+.. automodule:: bdf.add_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.aero module
+---------------
+
+.. automodule:: bdf.aero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.aeros module
+----------------
+
+.. automodule:: bdf.aeros
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.all_tests module
+--------------------
+
+.. automodule:: bdf.all_tests
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.assign_type module
+----------------------
+
+.. automodule:: bdf.assign_type
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.attributes module
+---------------------
+
+.. automodule:: bdf.attributes
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bars module
+---------------
+
+.. automodule:: bdf.bars
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.base_card module
+--------------------
+
+.. automodule:: bdf.base_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf module
+--------------
+
+.. automodule:: bdf.bdf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf_card module
+-------------------
+
+.. automodule:: bdf.bdf_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf_methods module
+----------------------
+
+.. automodule:: bdf.bdf_methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf_replacer module
+-----------------------
+
+.. automodule:: bdf.bdf_replacer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf_sets module
+-------------------
+
+.. automodule:: bdf.bdf_sets
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bdf_tables module
+---------------------
+
+.. automodule:: bdf.bdf_tables
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.beam module
+---------------
+
+.. automodule:: bdf.beam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.bush module
+---------------
+
+.. automodule:: bdf.bush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.caero module
+----------------
+
+.. automodule:: bdf.caero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.caero1 module
+-----------------
+
+.. automodule:: bdf.caero1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.case_control_deck module
+----------------------------
+
+.. automodule:: bdf.case_control_deck
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cbar module
+---------------
+
+.. automodule:: bdf.cbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cbeam module
+----------------
+
+.. automodule:: bdf.cbeam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cbush module
+----------------
+
+.. automodule:: bdf.cbush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.celas1 module
+-----------------
+
+.. automodule:: bdf.celas1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.celas2 module
+-----------------
+
+.. automodule:: bdf.celas2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.celas3 module
+-----------------
+
+.. automodule:: bdf.celas3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.celas4 module
+-----------------
+
+.. automodule:: bdf.celas4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.chexa20 module
+------------------
+
+.. automodule:: bdf.chexa20
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.chexa8 module
+-----------------
+
+.. automodule:: bdf.chexa8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.collpase_card module
+------------------------
+
+.. automodule:: bdf.collpase_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.compare_card_content module
+-------------------------------
+
+.. automodule:: bdf.compare_card_content
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.conm1 module
+----------------
+
+.. automodule:: bdf.conm1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.conm2 module
+----------------
+
+.. automodule:: bdf.conm2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.conrod module
+-----------------
+
+.. automodule:: bdf.conrod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.constraints module
+----------------------
+
+.. automodule:: bdf.constraints
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.contact module
+------------------
+
+.. automodule:: bdf.contact
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.convert module
+------------------
+
+.. automodule:: bdf.convert
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.coord module
+----------------
+
+.. automodule:: bdf.coord
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.coordinate_systems module
+-----------------------------
+
+.. automodule:: bdf.coordinate_systems
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cpenta15 module
+-------------------
+
+.. automodule:: bdf.cpenta15
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cpenta6 module
+------------------
+
+.. automodule:: bdf.cpenta6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cpyram13 module
+-------------------
+
+.. automodule:: bdf.cpyram13
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cpyram5 module
+------------------
+
+.. automodule:: bdf.cpyram5
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cquad4 module
+-----------------
+
+.. automodule:: bdf.cquad4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cquad8 module
+-----------------
+
+.. automodule:: bdf.cquad8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.crod module
+---------------
+
+.. automodule:: bdf.crod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cross_reference module
+--------------------------
+
+.. automodule:: bdf.cross_reference
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.cshear module
+-----------------
+
+.. automodule:: bdf.cshear
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctetra10 module
+-------------------
+
+.. automodule:: bdf.ctetra10
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctetra4 module
+------------------
+
+.. automodule:: bdf.ctetra4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctria3 module
+-----------------
+
+.. automodule:: bdf.ctria3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctria6 module
+-----------------
+
+.. automodule:: bdf.ctria6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctriax6 module
+------------------
+
+.. automodule:: bdf.ctriax6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ctube module
+----------------
+
+.. automodule:: bdf.ctube
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.damper module
+-----------------
+
+.. automodule:: bdf.damper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.deprecated module
+---------------------
+
+.. automodule:: bdf.deprecated
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.deqatn module
+-----------------
+
+.. automodule:: bdf.deqatn
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dev_utils module
+--------------------
+
+.. automodule:: bdf.dev_utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dload module
+----------------
+
+.. automodule:: bdf.dload
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dloads module
+-----------------
+
+.. automodule:: bdf.dloads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dmap module
+---------------
+
+.. automodule:: bdf.dmap
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dmig module
+---------------
+
+.. automodule:: bdf.dmig
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.dynamic module
+------------------
+
+.. automodule:: bdf.dynamic
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.element module
+------------------
+
+.. automodule:: bdf.element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.elements module
+-------------------
+
+.. automodule:: bdf.elements
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.elements_shell module
+-------------------------
+
+.. automodule:: bdf.elements_shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.elements_solid module
+-------------------------
+
+.. automodule:: bdf.elements_solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.elements_spring module
+--------------------------
+
+.. automodule:: bdf.elements_spring
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.epoint module
+-----------------
+
+.. automodule:: bdf.epoint
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.errors module
+-----------------
+
+.. automodule:: bdf.errors
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.field_writer module
+-----------------------
+
+.. automodule:: bdf.field_writer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.field_writer_16 module
+--------------------------
+
+.. automodule:: bdf.field_writer_16
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.field_writer_8 module
+-------------------------
+
+.. automodule:: bdf.field_writer_8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.field_writer_double module
+------------------------------
+
+.. automodule:: bdf.field_writer_double
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.force module
+----------------
+
+.. automodule:: bdf.force
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.force1 module
+-----------------
+
+.. automodule:: bdf.force1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.force2 module
+-----------------
+
+.. automodule:: bdf.force2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.get_card module
+-------------------
+
+.. automodule:: bdf.get_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.get_methods module
+----------------------
+
+.. automodule:: bdf.get_methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.get_uniq_fields module
+--------------------------
+
+.. automodule:: bdf.get_uniq_fields
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.grav module
+---------------
+
+.. automodule:: bdf.grav
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.grid module
+---------------
+
+.. automodule:: bdf.grid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.inertia_formulas module
+---------------------------
+
+.. automodule:: bdf.inertia_formulas
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.line_parsing module
+-----------------------
+
+.. automodule:: bdf.line_parsing
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.load module
+---------------
+
+.. automodule:: bdf.load
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.loadcase module
+-------------------
+
+.. automodule:: bdf.loadcase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.loads module
+----------------
+
+.. automodule:: bdf.loads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mass module
+---------------
+
+.. automodule:: bdf.mass
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mass_matrix module
+----------------------
+
+.. automodule:: bdf.mass_matrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mat1 module
+---------------
+
+.. automodule:: bdf.mat1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mat8 module
+---------------
+
+.. automodule:: bdf.mat8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.material module
+-------------------
+
+.. automodule:: bdf.material
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.material_deps module
+------------------------
+
+.. automodule:: bdf.material_deps
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.materials module
+--------------------
+
+.. automodule:: bdf.materials
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mathp module
+----------------
+
+.. automodule:: bdf.mathp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.matrices module
+-------------------
+
+.. automodule:: bdf.matrices
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mats1 module
+----------------
+
+.. automodule:: bdf.mats1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.methods module
+------------------
+
+.. automodule:: bdf.methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.moment module
+-----------------
+
+.. automodule:: bdf.moment
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mpc module
+--------------
+
+.. automodule:: bdf.mpc
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.mpcadd module
+-----------------
+
+.. automodule:: bdf.mpcadd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.nastran_io module
+---------------------
+
+.. automodule:: bdf.nastran_io
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.nlparm module
+-----------------
+
+.. automodule:: bdf.nlparm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.nlpci module
+----------------
+
+.. automodule:: bdf.nlpci
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.nodes module
+----------------
+
+.. automodule:: bdf.nodes
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.optimization module
+-----------------------
+
+.. automodule:: bdf.optimization
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.paero module
+----------------
+
+.. automodule:: bdf.paero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.paero1 module
+-----------------
+
+.. automodule:: bdf.paero1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.params module
+-----------------
+
+.. automodule:: bdf.params
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.patran_rpt module
+---------------------
+
+.. automodule:: bdf.patran_rpt
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pbar module
+---------------
+
+.. automodule:: bdf.pbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pbarl module
+----------------
+
+.. automodule:: bdf.pbarl
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pbeam module
+----------------
+
+.. automodule:: bdf.pbeam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pbeaml module
+-----------------
+
+.. automodule:: bdf.pbeaml
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pbush module
+----------------
+
+.. automodule:: bdf.pbush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pcomp module
+----------------
+
+.. automodule:: bdf.pcomp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pcomp_helper module
+-----------------------
+
+.. automodule:: bdf.pcomp_helper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pcompg module
+-----------------
+
+.. automodule:: bdf.pcompg
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pelas module
+----------------
+
+.. automodule:: bdf.pelas
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.plate module
+----------------
+
+.. automodule:: bdf.plate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pload module
+----------------
+
+.. automodule:: bdf.pload
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pload1 module
+-----------------
+
+.. automodule:: bdf.pload1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pload2 module
+-----------------
+
+.. automodule:: bdf.pload2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pload4 module
+-----------------
+
+.. automodule:: bdf.pload4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ploadx1 module
+------------------
+
+.. automodule:: bdf.ploadx1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.plsolid module
+------------------
+
+.. automodule:: bdf.plsolid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.point module
+----------------
+
+.. automodule:: bdf.point
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pointax module
+------------------
+
+.. automodule:: bdf.pointax
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.prod module
+---------------
+
+.. automodule:: bdf.prod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.properties module
+---------------------
+
+.. automodule:: bdf.properties
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.properties_bar module
+-------------------------
+
+.. automodule:: bdf.properties_bar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.properties_beam module
+--------------------------
+
+.. automodule:: bdf.properties_beam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.properties_shell module
+---------------------------
+
+.. automodule:: bdf.properties_shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.properties_solid module
+---------------------------
+
+.. automodule:: bdf.properties_solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.property module
+-------------------
+
+.. automodule:: bdf.property
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pshear module
+-----------------
+
+.. automodule:: bdf.pshear
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.pshell module
+-----------------
+
+.. automodule:: bdf.pshell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.psolid module
+-----------------
+
+.. automodule:: bdf.psolid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.ptube module
+----------------
+
+.. automodule:: bdf.ptube
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rbe2 module
+---------------
+
+.. automodule:: bdf.rbe2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rbe3 module
+---------------
+
+.. automodule:: bdf.rbe3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rforce module
+-----------------
+
+.. automodule:: bdf.rforce
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rigid module
+----------------
+
+.. automodule:: bdf.rigid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rod_element module
+----------------------
+
+.. automodule:: bdf.rod_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.rods module
+---------------
+
+.. automodule:: bdf.rods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.run_nastran_double_precision module
+---------------------------------------
+
+.. automodule:: bdf.run_nastran_double_precision
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.set_operations module
+-------------------------
+
+.. automodule:: bdf.set_operations
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.shell module
+----------------
+
+.. automodule:: bdf.shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.shell_element module
+------------------------
+
+.. automodule:: bdf.shell_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.solid module
+----------------
+
+.. automodule:: bdf.solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.solid_element module
+------------------------
+
+.. automodule:: bdf.solid_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.solver module
+-----------------
+
+.. automodule:: bdf.solver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.solver_args module
+----------------------
+
+.. automodule:: bdf.solver_args
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spc module
+--------------
+
+.. automodule:: bdf.spc
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spc1 module
+---------------
+
+.. automodule:: bdf.spc1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spcadd module
+-----------------
+
+.. automodule:: bdf.spcadd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spcd module
+---------------
+
+.. automodule:: bdf.spcd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spline1 module
+------------------
+
+.. automodule:: bdf.spline1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spoint module
+-----------------
+
+.. automodule:: bdf.spoint
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.spring_element module
+-------------------------
+
+.. automodule:: bdf.spring_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.springs module
+------------------
+
+.. automodule:: bdf.springs
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.static_loads module
+-----------------------
+
+.. automodule:: bdf.static_loads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.subcase module
+------------------
+
+.. automodule:: bdf.subcase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.temp module
+---------------
+
+.. automodule:: bdf.temp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.thermal module
+------------------
+
+.. automodule:: bdf.thermal
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.trim module
+---------------
+
+.. automodule:: bdf.trim
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.utils module
+----------------
+
+.. automodule:: bdf.utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.vectorized_card module
+--------------------------
+
+.. automodule:: bdf.vectorized_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.write_mesh module
+---------------------
+
+.. automodule:: bdf.write_mesh
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+bdf.write_path module
+---------------------
+
+.. automodule:: bdf.write_path
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: bdf
+    :members:
+    :undoc-members:
+    :show-inheritance:

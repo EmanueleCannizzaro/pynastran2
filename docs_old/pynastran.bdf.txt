@@ -1,0 +1,1366 @@
+pynastran.bdf package
+=====================
+
+Submodules
+----------
+
+pynastran.bdf.add_card module
+-----------------------------
+
+.. automodule:: pynastran.bdf.add_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.aero module
+-------------------------
+
+.. automodule:: pynastran.bdf.aero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.aeros module
+--------------------------
+
+.. automodule:: pynastran.bdf.aeros
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.all_tests module
+------------------------------
+
+.. automodule:: pynastran.bdf.all_tests
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.assign_type module
+--------------------------------
+
+.. automodule:: pynastran.bdf.assign_type
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.attributes module
+-------------------------------
+
+.. automodule:: pynastran.bdf.attributes
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bars module
+-------------------------
+
+.. automodule:: pynastran.bdf.bars
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.base_card module
+------------------------------
+
+.. automodule:: pynastran.bdf.base_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf module
+------------------------
+
+.. automodule:: pynastran.bdf.bdf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf_card module
+-----------------------------
+
+.. automodule:: pynastran.bdf.bdf_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf_methods module
+--------------------------------
+
+.. automodule:: pynastran.bdf.bdf_methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf_replacer module
+---------------------------------
+
+.. automodule:: pynastran.bdf.bdf_replacer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf_sets module
+-----------------------------
+
+.. automodule:: pynastran.bdf.bdf_sets
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bdf_tables module
+-------------------------------
+
+.. automodule:: pynastran.bdf.bdf_tables
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.beam module
+-------------------------
+
+.. automodule:: pynastran.bdf.beam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.bush module
+-------------------------
+
+.. automodule:: pynastran.bdf.bush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.caero module
+--------------------------
+
+.. automodule:: pynastran.bdf.caero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.caero1 module
+---------------------------
+
+.. automodule:: pynastran.bdf.caero1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.case_control_deck module
+--------------------------------------
+
+.. automodule:: pynastran.bdf.case_control_deck
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cbar module
+-------------------------
+
+.. automodule:: pynastran.bdf.cbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cbeam module
+--------------------------
+
+.. automodule:: pynastran.bdf.cbeam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cbush module
+--------------------------
+
+.. automodule:: pynastran.bdf.cbush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.celas1 module
+---------------------------
+
+.. automodule:: pynastran.bdf.celas1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.celas2 module
+---------------------------
+
+.. automodule:: pynastran.bdf.celas2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.celas3 module
+---------------------------
+
+.. automodule:: pynastran.bdf.celas3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.celas4 module
+---------------------------
+
+.. automodule:: pynastran.bdf.celas4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.chexa20 module
+----------------------------
+
+.. automodule:: pynastran.bdf.chexa20
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.chexa8 module
+---------------------------
+
+.. automodule:: pynastran.bdf.chexa8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.collpase_card module
+----------------------------------
+
+.. automodule:: pynastran.bdf.collpase_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.compare_card_content module
+-----------------------------------------
+
+.. automodule:: pynastran.bdf.compare_card_content
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.conm1 module
+--------------------------
+
+.. automodule:: pynastran.bdf.conm1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.conm2 module
+--------------------------
+
+.. automodule:: pynastran.bdf.conm2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.conrod module
+---------------------------
+
+.. automodule:: pynastran.bdf.conrod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.constraints module
+--------------------------------
+
+.. automodule:: pynastran.bdf.constraints
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.contact module
+----------------------------
+
+.. automodule:: pynastran.bdf.contact
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.convert module
+----------------------------
+
+.. automodule:: pynastran.bdf.convert
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.coord module
+--------------------------
+
+.. automodule:: pynastran.bdf.coord
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.coordinate_systems module
+---------------------------------------
+
+.. automodule:: pynastran.bdf.coordinate_systems
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cpenta15 module
+-----------------------------
+
+.. automodule:: pynastran.bdf.cpenta15
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cpenta6 module
+----------------------------
+
+.. automodule:: pynastran.bdf.cpenta6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cpyram13 module
+-----------------------------
+
+.. automodule:: pynastran.bdf.cpyram13
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cpyram5 module
+----------------------------
+
+.. automodule:: pynastran.bdf.cpyram5
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cquad4 module
+---------------------------
+
+.. automodule:: pynastran.bdf.cquad4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cquad8 module
+---------------------------
+
+.. automodule:: pynastran.bdf.cquad8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.crod module
+-------------------------
+
+.. automodule:: pynastran.bdf.crod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cross_reference module
+------------------------------------
+
+.. automodule:: pynastran.bdf.cross_reference
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.cshear module
+---------------------------
+
+.. automodule:: pynastran.bdf.cshear
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctetra10 module
+-----------------------------
+
+.. automodule:: pynastran.bdf.ctetra10
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctetra4 module
+----------------------------
+
+.. automodule:: pynastran.bdf.ctetra4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctria3 module
+---------------------------
+
+.. automodule:: pynastran.bdf.ctria3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctria6 module
+---------------------------
+
+.. automodule:: pynastran.bdf.ctria6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctriax6 module
+----------------------------
+
+.. automodule:: pynastran.bdf.ctriax6
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ctube module
+--------------------------
+
+.. automodule:: pynastran.bdf.ctube
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.damper module
+---------------------------
+
+.. automodule:: pynastran.bdf.damper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.deprecated module
+-------------------------------
+
+.. automodule:: pynastran.bdf.deprecated
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.deqatn module
+---------------------------
+
+.. automodule:: pynastran.bdf.deqatn
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dev_utils module
+------------------------------
+
+.. automodule:: pynastran.bdf.dev_utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dload module
+--------------------------
+
+.. automodule:: pynastran.bdf.dload
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dloads module
+---------------------------
+
+.. automodule:: pynastran.bdf.dloads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dmap module
+-------------------------
+
+.. automodule:: pynastran.bdf.dmap
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dmig module
+-------------------------
+
+.. automodule:: pynastran.bdf.dmig
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.dynamic module
+----------------------------
+
+.. automodule:: pynastran.bdf.dynamic
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.element module
+----------------------------
+
+.. automodule:: pynastran.bdf.element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.elements module
+-----------------------------
+
+.. automodule:: pynastran.bdf.elements
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.elements_shell module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.elements_shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.elements_solid module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.elements_solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.elements_spring module
+------------------------------------
+
+.. automodule:: pynastran.bdf.elements_spring
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.epoint module
+---------------------------
+
+.. automodule:: pynastran.bdf.epoint
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.errors module
+---------------------------
+
+.. automodule:: pynastran.bdf.errors
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.field_writer module
+---------------------------------
+
+.. automodule:: pynastran.bdf.field_writer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.field_writer_16 module
+------------------------------------
+
+.. automodule:: pynastran.bdf.field_writer_16
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.field_writer_8 module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.field_writer_8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.field_writer_double module
+----------------------------------------
+
+.. automodule:: pynastran.bdf.field_writer_double
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.force module
+--------------------------
+
+.. automodule:: pynastran.bdf.force
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.force1 module
+---------------------------
+
+.. automodule:: pynastran.bdf.force1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.force2 module
+---------------------------
+
+.. automodule:: pynastran.bdf.force2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.get_card module
+-----------------------------
+
+.. automodule:: pynastran.bdf.get_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.get_methods module
+--------------------------------
+
+.. automodule:: pynastran.bdf.get_methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.get_uniq_fields module
+------------------------------------
+
+.. automodule:: pynastran.bdf.get_uniq_fields
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.grav module
+-------------------------
+
+.. automodule:: pynastran.bdf.grav
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.grid module
+-------------------------
+
+.. automodule:: pynastran.bdf.grid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.inertia_formulas module
+-------------------------------------
+
+.. automodule:: pynastran.bdf.inertia_formulas
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.line_parsing module
+---------------------------------
+
+.. automodule:: pynastran.bdf.line_parsing
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.load module
+-------------------------
+
+.. automodule:: pynastran.bdf.load
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.loadcase module
+-----------------------------
+
+.. automodule:: pynastran.bdf.loadcase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.loads module
+--------------------------
+
+.. automodule:: pynastran.bdf.loads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mass module
+-------------------------
+
+.. automodule:: pynastran.bdf.mass
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mass_matrix module
+--------------------------------
+
+.. automodule:: pynastran.bdf.mass_matrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mat1 module
+-------------------------
+
+.. automodule:: pynastran.bdf.mat1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mat8 module
+-------------------------
+
+.. automodule:: pynastran.bdf.mat8
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.material module
+-----------------------------
+
+.. automodule:: pynastran.bdf.material
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.material_deps module
+----------------------------------
+
+.. automodule:: pynastran.bdf.material_deps
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.materials module
+------------------------------
+
+.. automodule:: pynastran.bdf.materials
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mathp module
+--------------------------
+
+.. automodule:: pynastran.bdf.mathp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.matrices module
+-----------------------------
+
+.. automodule:: pynastran.bdf.matrices
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mats1 module
+--------------------------
+
+.. automodule:: pynastran.bdf.mats1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.methods module
+----------------------------
+
+.. automodule:: pynastran.bdf.methods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.moment module
+---------------------------
+
+.. automodule:: pynastran.bdf.moment
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mpc module
+------------------------
+
+.. automodule:: pynastran.bdf.mpc
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.mpcadd module
+---------------------------
+
+.. automodule:: pynastran.bdf.mpcadd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.nastran_io module
+-------------------------------
+
+.. automodule:: pynastran.bdf.nastran_io
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.nlparm module
+---------------------------
+
+.. automodule:: pynastran.bdf.nlparm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.nlpci module
+--------------------------
+
+.. automodule:: pynastran.bdf.nlpci
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.nodes module
+--------------------------
+
+.. automodule:: pynastran.bdf.nodes
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.optimization module
+---------------------------------
+
+.. automodule:: pynastran.bdf.optimization
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.paero module
+--------------------------
+
+.. automodule:: pynastran.bdf.paero
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.paero1 module
+---------------------------
+
+.. automodule:: pynastran.bdf.paero1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.params module
+---------------------------
+
+.. automodule:: pynastran.bdf.params
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.patran_rpt module
+-------------------------------
+
+.. automodule:: pynastran.bdf.patran_rpt
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pbar module
+-------------------------
+
+.. automodule:: pynastran.bdf.pbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pbarl module
+--------------------------
+
+.. automodule:: pynastran.bdf.pbarl
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pbeam module
+--------------------------
+
+.. automodule:: pynastran.bdf.pbeam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pbeaml module
+---------------------------
+
+.. automodule:: pynastran.bdf.pbeaml
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pbush module
+--------------------------
+
+.. automodule:: pynastran.bdf.pbush
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pcomp module
+--------------------------
+
+.. automodule:: pynastran.bdf.pcomp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pcomp_helper module
+---------------------------------
+
+.. automodule:: pynastran.bdf.pcomp_helper
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pcompg module
+---------------------------
+
+.. automodule:: pynastran.bdf.pcompg
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pelas module
+--------------------------
+
+.. automodule:: pynastran.bdf.pelas
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.plate module
+--------------------------
+
+.. automodule:: pynastran.bdf.plate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pload module
+--------------------------
+
+.. automodule:: pynastran.bdf.pload
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pload1 module
+---------------------------
+
+.. automodule:: pynastran.bdf.pload1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pload2 module
+---------------------------
+
+.. automodule:: pynastran.bdf.pload2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pload4 module
+---------------------------
+
+.. automodule:: pynastran.bdf.pload4
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ploadx1 module
+----------------------------
+
+.. automodule:: pynastran.bdf.ploadx1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.plsolid module
+----------------------------
+
+.. automodule:: pynastran.bdf.plsolid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.point module
+--------------------------
+
+.. automodule:: pynastran.bdf.point
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pointax module
+----------------------------
+
+.. automodule:: pynastran.bdf.pointax
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.prod module
+-------------------------
+
+.. automodule:: pynastran.bdf.prod
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.properties module
+-------------------------------
+
+.. automodule:: pynastran.bdf.properties
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.properties_bar module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.properties_bar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.properties_beam module
+------------------------------------
+
+.. automodule:: pynastran.bdf.properties_beam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.properties_shell module
+-------------------------------------
+
+.. automodule:: pynastran.bdf.properties_shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.properties_solid module
+-------------------------------------
+
+.. automodule:: pynastran.bdf.properties_solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.property module
+-----------------------------
+
+.. automodule:: pynastran.bdf.property
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pshear module
+---------------------------
+
+.. automodule:: pynastran.bdf.pshear
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.pshell module
+---------------------------
+
+.. automodule:: pynastran.bdf.pshell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.psolid module
+---------------------------
+
+.. automodule:: pynastran.bdf.psolid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.ptube module
+--------------------------
+
+.. automodule:: pynastran.bdf.ptube
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rbe2 module
+-------------------------
+
+.. automodule:: pynastran.bdf.rbe2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rbe3 module
+-------------------------
+
+.. automodule:: pynastran.bdf.rbe3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rforce module
+---------------------------
+
+.. automodule:: pynastran.bdf.rforce
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rigid module
+--------------------------
+
+.. automodule:: pynastran.bdf.rigid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rod_element module
+--------------------------------
+
+.. automodule:: pynastran.bdf.rod_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.rods module
+-------------------------
+
+.. automodule:: pynastran.bdf.rods
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.run_nastran_double_precision module
+-------------------------------------------------
+
+.. automodule:: pynastran.bdf.run_nastran_double_precision
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.set_operations module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.set_operations
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.shell module
+--------------------------
+
+.. automodule:: pynastran.bdf.shell
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.shell_element module
+----------------------------------
+
+.. automodule:: pynastran.bdf.shell_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.solid module
+--------------------------
+
+.. automodule:: pynastran.bdf.solid
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.solid_element module
+----------------------------------
+
+.. automodule:: pynastran.bdf.solid_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.solver module
+---------------------------
+
+.. automodule:: pynastran.bdf.solver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.solver_args module
+--------------------------------
+
+.. automodule:: pynastran.bdf.solver_args
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spc module
+------------------------
+
+.. automodule:: pynastran.bdf.spc
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spc1 module
+-------------------------
+
+.. automodule:: pynastran.bdf.spc1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spcadd module
+---------------------------
+
+.. automodule:: pynastran.bdf.spcadd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spcd module
+-------------------------
+
+.. automodule:: pynastran.bdf.spcd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spline1 module
+----------------------------
+
+.. automodule:: pynastran.bdf.spline1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spoint module
+---------------------------
+
+.. automodule:: pynastran.bdf.spoint
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.spring_element module
+-----------------------------------
+
+.. automodule:: pynastran.bdf.spring_element
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.springs module
+----------------------------
+
+.. automodule:: pynastran.bdf.springs
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.static_loads module
+---------------------------------
+
+.. automodule:: pynastran.bdf.static_loads
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.subcase module
+----------------------------
+
+.. automodule:: pynastran.bdf.subcase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.temp module
+-------------------------
+
+.. automodule:: pynastran.bdf.temp
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.thermal module
+----------------------------
+
+.. automodule:: pynastran.bdf.thermal
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.trim module
+-------------------------
+
+.. automodule:: pynastran.bdf.trim
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.utils module
+--------------------------
+
+.. automodule:: pynastran.bdf.utils
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.vectorized_card module
+------------------------------------
+
+.. automodule:: pynastran.bdf.vectorized_card
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.write_mesh module
+-------------------------------
+
+.. automodule:: pynastran.bdf.write_mesh
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+pynastran.bdf.write_path module
+-------------------------------
+
+.. automodule:: pynastran.bdf.write_path
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: pynastran.bdf
+    :members:
+    :undoc-members:
+    :show-inheritance:

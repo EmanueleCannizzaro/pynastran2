@@ -1,0 +1,38 @@
+.. pynastran documentation master file, created by
+   sphinx-quickstart on Fri May  6 16:42:06 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to pynastran's documentation!
+=====================================
+
+This is pynastran documentation. 
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   op4.rst
+..     pynastran.rst
+     bdf.rst
+     f06.rst
+     op2.rst
+   
+.. autoclass:: OP4
+    :members:  
+
+.. automodule:: OP4
+..  automodule:: BDF, F06, OP2, OP4
+ 
+..  autoclass:: BDF, F06, OP2, OP4
+
+  
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
